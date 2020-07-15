@@ -413,4 +413,3 @@
 |minseobKim|[minseob-Kim](https://github.com/minseob-Kim)|
 |EunJeong Kwak|[iamkkwak](https://github.com/iamkkwak)|
 |Mad Kwang|[kwang5348](https://github.com/kwang5348)|
-|YoonJung Park|[PARKYOONJUNG6163](https://github.com/PARKYOONJUNG6163)|
